@@ -1,0 +1,12 @@
+searchig
+sorting
+raw analytical
+binary search(list of object properties)
+Notes: - I had a problem on the printing again
+       - I fixed it by adding a .close() for the FileWriter.
+       - There is a small problem on the printing I should go home and edit
+       - The program started to close on me
+       - I realized as I was adding option I did not change the condition
+         for the while loop.
+       - A little more design would be nice for the text files
+http://8ch.net/pol/res/5154173.html
